@@ -1,31 +1,31 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.5f361e03.chunk.css",
-    "main.js": "/portfolio/static/js/main.31fe567d.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.31fe567d.chunk.js.map",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.b449097c.js",
-    "runtime-main.js.map": "/portfolio/static/js/runtime-main.b449097c.js.map",
-    "static/css/2.4707e12a.chunk.css": "/portfolio/static/css/2.4707e12a.chunk.css",
-    "static/js/2.44501c06.chunk.js": "/portfolio/static/js/2.44501c06.chunk.js",
-    "static/js/2.44501c06.chunk.js.map": "/portfolio/static/js/2.44501c06.chunk.js.map",
-    "index.html": "/portfolio/index.html",
-    "precache-manifest.36c7b1dddd50870f55005e0ea0e4a877.js": "/portfolio/precache-manifest.36c7b1dddd50870f55005e0ea0e4a877.js",
-    "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/2.4707e12a.chunk.css.map": "/portfolio/static/css/2.4707e12a.chunk.css.map",
-    "static/css/main.5f361e03.chunk.css.map": "/portfolio/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.44501c06.chunk.js.LICENSE.txt": "/portfolio/static/js/2.44501c06.chunk.js.LICENSE.txt",
-    "static/media/Tawsif Ahmed Logo.png": "/portfolio/static/media/Tawsif Ahmed Logo.985b4eec.png",
-    "static/media/linkedin.svg": "/portfolio/static/media/linkedin.1e01f0c0.svg",
-    "static/media/logo.svg": "/portfolio/static/media/logo.5d5d9eef.svg",
-    "static/media/others.png": "/portfolio/static/media/others.2ba8d92f.png",
-    "static/media/portfolio.png": "/portfolio/static/media/portfolio.66ce42a2.png",
-    "static/media/resume.png": "/portfolio/static/media/resume.442c6c5d.png"
+    "main.css": "/tawsif/static/css/main.5f361e03.chunk.css",
+    "main.js": "/tawsif/static/js/main.a77e1c50.chunk.js",
+    "main.js.map": "/tawsif/static/js/main.a77e1c50.chunk.js.map",
+    "runtime-main.js": "/tawsif/static/js/runtime-main.55e712ee.js",
+    "runtime-main.js.map": "/tawsif/static/js/runtime-main.55e712ee.js.map",
+    "static/css/2.4707e12a.chunk.css": "/tawsif/static/css/2.4707e12a.chunk.css",
+    "static/js/2.44501c06.chunk.js": "/tawsif/static/js/2.44501c06.chunk.js",
+    "static/js/2.44501c06.chunk.js.map": "/tawsif/static/js/2.44501c06.chunk.js.map",
+    "index.html": "/tawsif/index.html",
+    "precache-manifest.524e65d7c6f0a44a2802ad6e65191421.js": "/tawsif/precache-manifest.524e65d7c6f0a44a2802ad6e65191421.js",
+    "service-worker.js": "/tawsif/service-worker.js",
+    "static/css/2.4707e12a.chunk.css.map": "/tawsif/static/css/2.4707e12a.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/tawsif/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.44501c06.chunk.js.LICENSE.txt": "/tawsif/static/js/2.44501c06.chunk.js.LICENSE.txt",
+    "static/media/Tawsif Ahmed Logo.png": "/tawsif/static/media/Tawsif Ahmed Logo.985b4eec.png",
+    "static/media/linkedin.svg": "/tawsif/static/media/linkedin.1e01f0c0.svg",
+    "static/media/logo.svg": "/tawsif/static/media/logo.5d5d9eef.svg",
+    "static/media/others.png": "/tawsif/static/media/others.2ba8d92f.png",
+    "static/media/portfolio.png": "/tawsif/static/media/portfolio.66ce42a2.png",
+    "static/media/resume.png": "/tawsif/static/media/resume.442c6c5d.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.b449097c.js",
+    "static/js/runtime-main.55e712ee.js",
     "static/css/2.4707e12a.chunk.css",
     "static/js/2.44501c06.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.31fe567d.chunk.js"
+    "static/js/main.a77e1c50.chunk.js"
   ]
 }
