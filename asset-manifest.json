@@ -1,31 +1,32 @@
 {
   "files": {
     "main.css": "/tawsif/static/css/main.5f361e03.chunk.css",
-    "main.js": "/tawsif/static/js/main.4bdfbaed.chunk.js",
-    "main.js.map": "/tawsif/static/js/main.4bdfbaed.chunk.js.map",
+    "main.js": "/tawsif/static/js/main.06314e64.chunk.js",
+    "main.js.map": "/tawsif/static/js/main.06314e64.chunk.js.map",
     "runtime-main.js": "/tawsif/static/js/runtime-main.55e712ee.js",
     "runtime-main.js.map": "/tawsif/static/js/runtime-main.55e712ee.js.map",
     "static/css/2.4707e12a.chunk.css": "/tawsif/static/css/2.4707e12a.chunk.css",
-    "static/js/2.44501c06.chunk.js": "/tawsif/static/js/2.44501c06.chunk.js",
-    "static/js/2.44501c06.chunk.js.map": "/tawsif/static/js/2.44501c06.chunk.js.map",
+    "static/js/2.5d87972d.chunk.js": "/tawsif/static/js/2.5d87972d.chunk.js",
+    "static/js/2.5d87972d.chunk.js.map": "/tawsif/static/js/2.5d87972d.chunk.js.map",
     "index.html": "/tawsif/index.html",
-    "precache-manifest.ffe8c5db6cbea2175eb2ed57599e9d8f.js": "/tawsif/precache-manifest.ffe8c5db6cbea2175eb2ed57599e9d8f.js",
+    "precache-manifest.d107ac32c877e6de741f721f2e0a3d8b.js": "/tawsif/precache-manifest.d107ac32c877e6de741f721f2e0a3d8b.js",
     "service-worker.js": "/tawsif/service-worker.js",
     "static/css/2.4707e12a.chunk.css.map": "/tawsif/static/css/2.4707e12a.chunk.css.map",
     "static/css/main.5f361e03.chunk.css.map": "/tawsif/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.44501c06.chunk.js.LICENSE.txt": "/tawsif/static/js/2.44501c06.chunk.js.LICENSE.txt",
+    "static/js/2.5d87972d.chunk.js.LICENSE.txt": "/tawsif/static/js/2.5d87972d.chunk.js.LICENSE.txt",
     "static/media/Tawsif Ahmed Logo.png": "/tawsif/static/media/Tawsif Ahmed Logo.985b4eec.png",
     "static/media/linkedin.svg": "/tawsif/static/media/linkedin.1e01f0c0.svg",
     "static/media/logo.svg": "/tawsif/static/media/logo.5d5d9eef.svg",
     "static/media/others.png": "/tawsif/static/media/others.2ba8d92f.png",
     "static/media/portfolio.png": "/tawsif/static/media/portfolio.66ce42a2.png",
-    "static/media/resume.png": "/tawsif/static/media/resume.442c6c5d.png"
+    "static/media/resume.png": "/tawsif/static/media/resume.442c6c5d.png",
+    "static/media/tictac.png": "/tawsif/static/media/tictac.0e5a2ed9.png"
   },
   "entrypoints": [
     "static/js/runtime-main.55e712ee.js",
     "static/css/2.4707e12a.chunk.css",
-    "static/js/2.44501c06.chunk.js",
+    "static/js/2.5d87972d.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.4bdfbaed.chunk.js"
+    "static/js/main.06314e64.chunk.js"
   ]
 }
