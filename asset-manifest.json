@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/tawsif/static/css/main.7f904051.chunk.css",
-    "main.js": "/tawsif/static/js/main.5c766e5f.chunk.js",
-    "main.js.map": "/tawsif/static/js/main.5c766e5f.chunk.js.map",
+    "main.js": "/tawsif/static/js/main.8a594316.chunk.js",
+    "main.js.map": "/tawsif/static/js/main.8a594316.chunk.js.map",
     "runtime-main.js": "/tawsif/static/js/runtime-main.55e712ee.js",
     "runtime-main.js.map": "/tawsif/static/js/runtime-main.55e712ee.js.map",
     "static/css/2.451bf2e4.chunk.css": "/tawsif/static/css/2.451bf2e4.chunk.css",
     "static/js/2.4cec596e.chunk.js": "/tawsif/static/js/2.4cec596e.chunk.js",
     "static/js/2.4cec596e.chunk.js.map": "/tawsif/static/js/2.4cec596e.chunk.js.map",
     "index.html": "/tawsif/index.html",
-    "precache-manifest.6855ced9d65a5664760f306b3d7a5420.js": "/tawsif/precache-manifest.6855ced9d65a5664760f306b3d7a5420.js",
+    "precache-manifest.dc1e5250eeb946ba49c5e46e1fb4a320.js": "/tawsif/precache-manifest.dc1e5250eeb946ba49c5e46e1fb4a320.js",
     "service-worker.js": "/tawsif/service-worker.js",
     "static/css/2.451bf2e4.chunk.css.map": "/tawsif/static/css/2.451bf2e4.chunk.css.map",
     "static/css/main.7f904051.chunk.css.map": "/tawsif/static/css/main.7f904051.chunk.css.map",
@@ -28,6 +28,6 @@
     "static/css/2.451bf2e4.chunk.css",
     "static/js/2.4cec596e.chunk.js",
     "static/css/main.7f904051.chunk.css",
-    "static/js/main.5c766e5f.chunk.js"
+    "static/js/main.8a594316.chunk.js"
   ]
 }
