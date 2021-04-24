@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5e5d34d7c02afd16f34dcd01f8069c34",
+    "revision": "a0e9bb613552493db3bb766959b3b4f8",
     "url": "/tawsif/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tawsif/static/css/2.4707e12a.chunk.css"
   },
   {
-    "revision": "9e57a16254db55fa4841",
+    "revision": "0e686fa7654048ba1b9f",
     "url": "/tawsif/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tawsif/static/js/2.8d810f89.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9e57a16254db55fa4841",
-    "url": "/tawsif/static/js/main.a813322f.chunk.js"
+    "revision": "0e686fa7654048ba1b9f",
+    "url": "/tawsif/static/js/main.4d4f9658.chunk.js"
   },
   {
     "revision": "f375b04b36e47a9251b8",
