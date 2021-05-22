@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "30a95cab1da49ad8598876b2ab4656d3",
+    "revision": "7549b90efbfca95a0fa44460861997a3",
     "url": "/tawsif/index.html"
   },
   {
-    "revision": "66a0c6c0dfcc72c63319",
+    "revision": "58d85b938c7be765c3ed",
     "url": "/tawsif/static/css/2.451bf2e4.chunk.css"
   },
   {
-    "revision": "ee4b8bc69e27cb3834a2",
-    "url": "/tawsif/static/css/main.7f904051.chunk.css"
+    "revision": "c81b22cfe4764f716466",
+    "url": "/tawsif/static/css/main.e6c243a4.chunk.css"
   },
   {
-    "revision": "66a0c6c0dfcc72c63319",
-    "url": "/tawsif/static/js/2.4cec596e.chunk.js"
+    "revision": "58d85b938c7be765c3ed",
+    "url": "/tawsif/static/js/2.7ee5557a.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/tawsif/static/js/2.4cec596e.chunk.js.LICENSE.txt"
+    "url": "/tawsif/static/js/2.7ee5557a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ee4b8bc69e27cb3834a2",
-    "url": "/tawsif/static/js/main.8a594316.chunk.js"
+    "revision": "c81b22cfe4764f716466",
+    "url": "/tawsif/static/js/main.2f02d978.chunk.js"
   },
   {
     "revision": "f375b04b36e47a9251b8",
@@ -30,6 +30,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "985b4eecacba9dd02d825ff16129e9e4",
     "url": "/tawsif/static/media/Tawsif Ahmed Logo.985b4eec.png"
+  },
+  {
+    "revision": "b96a2e611bde03819b735b3ca0d71682",
+    "url": "/tawsif/static/media/api.b96a2e61.png"
   },
   {
     "revision": "7ec58446259b3fb0a5ad2f21cf942ba2",
@@ -54,6 +58,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "bcda35920dff4592ac1793367c6bd43a",
     "url": "/tawsif/static/media/resume.bcda3592.png"
+  },
+  {
+    "revision": "334ae9eaaff34d6212aab6ada578a5e6",
+    "url": "/tawsif/static/media/spotify.334ae9ea.png"
   },
   {
     "revision": "0e5a2ed9970ac9b08d995f49c67610be",
