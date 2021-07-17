@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0f8332ec236047182dfd0b26f65cf0a0",
+    "revision": "c3224cd26ab23f99466b08ee443327ff",
     "url": "/tawsif/index.html"
   },
   {
-    "revision": "24bfc0c9cc949ede2b29",
+    "revision": "f793f1d356080986b774",
     "url": "/tawsif/static/css/2.451bf2e4.chunk.css"
   },
   {
-    "revision": "0dd4170611885cd49b0d",
-    "url": "/tawsif/static/css/main.e6c243a4.chunk.css"
+    "revision": "faa1a57b20798ac34c83",
+    "url": "/tawsif/static/css/main.91a94861.chunk.css"
   },
   {
-    "revision": "24bfc0c9cc949ede2b29",
-    "url": "/tawsif/static/js/2.77f9ab0c.chunk.js"
+    "revision": "f793f1d356080986b774",
+    "url": "/tawsif/static/js/2.0bd2bf94.chunk.js"
   },
   {
-    "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/tawsif/static/js/2.77f9ab0c.chunk.js.LICENSE.txt"
+    "revision": "e6abab2efcbe075c6ba3bb73f791f377",
+    "url": "/tawsif/static/js/2.0bd2bf94.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0dd4170611885cd49b0d",
-    "url": "/tawsif/static/js/main.52262ad0.chunk.js"
+    "revision": "faa1a57b20798ac34c83",
+    "url": "/tawsif/static/js/main.d5f8dbac.chunk.js"
   },
   {
     "revision": "f375b04b36e47a9251b8",
@@ -60,11 +60,23 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tawsif/static/media/resume.bcda3592.png"
   },
   {
+    "revision": "8b32bce16fa2e87fe58140da41835e03",
+    "url": "/tawsif/static/media/school.8b32bce1.png"
+  },
+  {
     "revision": "334ae9eaaff34d6212aab6ada578a5e6",
     "url": "/tawsif/static/media/spotify.334ae9ea.png"
   },
   {
     "revision": "0e5a2ed9970ac9b08d995f49c67610be",
     "url": "/tawsif/static/media/tictac.0e5a2ed9.png"
+  },
+  {
+    "revision": "07b69ee160aecb03aee241acf3a11cef",
+    "url": "/tawsif/static/media/trial.07b69ee1.mp4"
+  },
+  {
+    "revision": "f063258bc8832d936f58497f863c2116",
+    "url": "/tawsif/static/media/university2.f063258b.jpg"
   }
 ]);
